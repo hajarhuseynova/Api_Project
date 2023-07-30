@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "IWpOt92jdG1Iy637z8E8ugwBJtxSJzKVxL9vINTmYiI=",
+  "Source": "ApiIntro",
+  "BasePath": "_content/ApiIntro",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ApiIntro\\wwwroot",
+      "Source": "ApiIntro",
+      "ContentRoot": "C:\\Users\\99455\\Desktop\\ApiIntro\\wwwroot\\",
+      "BasePath": "_content/ApiIntro",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\99455\\Desktop\\ApiIntro\\wwwroot\\assets\\images\\2beda982-d5fb-4336-80ae-db2d08ecfd24Screenshot (1).png",
+      "SourceId": "ApiIntro",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\99455\\Desktop\\ApiIntro\\wwwroot\\",
+      "BasePath": "_content/ApiIntro",
+      "RelativePath": "assets/images/2beda982-d5fb-4336-80ae-db2d08ecfd24Screenshot (1).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\2beda982-d5fb-4336-80ae-db2d08ecfd24Screenshot (1).png"
+    }
+  ]
+}
