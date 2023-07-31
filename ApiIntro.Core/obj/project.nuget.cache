@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jnIMh/+aw3x+Fkgop0OSV66TSTinTBfWOxgXFk3KQpNMn8SAiM6N8li+M9ZKa9z4ELybvJjIPzLoCBvsNBGQvQ==",
+  "dgSpecHash": "7dqULKt+qUxV68w1nu5sEqYFHOs7/9g2++QJ/pgS7+sHt1QeQ1sfDQ3G+JTBwY8yrjM3cdRRUPRO2zxr2oPpAQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\99455\\Desktop\\ApiIntro.Core\\ApiIntro.Core.csproj",
+  "projectFilePath": "C:\\Users\\99455\\Desktop\\Apiproject\\ApiIntro.Core\\ApiIntro.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\99455\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\99455\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

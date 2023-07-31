@@ -4,14 +4,16 @@ using ApiIntro.Service.Dtos.Categories;
 using ApiIntro.Service.Services.Interfaces;
 
 using AutoMapper;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
-namespace ApiIntro.Controllers
+namespace ApiIntro.Admin.Controllers
 {
+    [Authorize(Roles = "Admin,SuperAdmin")]
     [ApiController]
-    [Route("api/[controller]")]
-    public class CategoriesController : Controller
+    [Route("api/admin/[controller]")]
+    public class CategoriesController : ControllerBase
     {
         private readonly ICategoryService _categoryService;
 

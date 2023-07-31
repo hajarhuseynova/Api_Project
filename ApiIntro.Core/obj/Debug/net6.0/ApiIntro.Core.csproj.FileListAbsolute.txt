@@ -10,3 +10,15 @@ C:\Users\99455\Desktop\ApiIntro.Core\obj\Debug\net6.0\ApiIntro.Core.dll
 C:\Users\99455\Desktop\ApiIntro.Core\obj\Debug\net6.0\refint\ApiIntro.Core.dll
 C:\Users\99455\Desktop\ApiIntro.Core\obj\Debug\net6.0\ApiIntro.Core.pdb
 C:\Users\99455\Desktop\ApiIntro.Core\obj\Debug\net6.0\ref\ApiIntro.Core.dll
+C:\Users\99455\Desktop\Apiproject\ApiIntro.Core\bin\Debug\net6.0\ApiIntro.Core.deps.json
+C:\Users\99455\Desktop\Apiproject\ApiIntro.Core\bin\Debug\net6.0\ApiIntro.Core.dll
+C:\Users\99455\Desktop\Apiproject\ApiIntro.Core\bin\Debug\net6.0\ApiIntro.Core.pdb
+C:\Users\99455\Desktop\Apiproject\ApiIntro.Core\obj\Debug\net6.0\ApiIntro.Core.csproj.AssemblyReference.cache
+C:\Users\99455\Desktop\Apiproject\ApiIntro.Core\obj\Debug\net6.0\ApiIntro.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\Desktop\Apiproject\ApiIntro.Core\obj\Debug\net6.0\ApiIntro.Core.AssemblyInfoInputs.cache
+C:\Users\99455\Desktop\Apiproject\ApiIntro.Core\obj\Debug\net6.0\ApiIntro.Core.AssemblyInfo.cs
+C:\Users\99455\Desktop\Apiproject\ApiIntro.Core\obj\Debug\net6.0\ApiIntro.Core.csproj.CoreCompileInputs.cache
+C:\Users\99455\Desktop\Apiproject\ApiIntro.Core\obj\Debug\net6.0\ApiIntro.Core.dll
+C:\Users\99455\Desktop\Apiproject\ApiIntro.Core\obj\Debug\net6.0\refint\ApiIntro.Core.dll
+C:\Users\99455\Desktop\Apiproject\ApiIntro.Core\obj\Debug\net6.0\ApiIntro.Core.pdb
+C:\Users\99455\Desktop\Apiproject\ApiIntro.Core\obj\Debug\net6.0\ref\ApiIntro.Core.dll

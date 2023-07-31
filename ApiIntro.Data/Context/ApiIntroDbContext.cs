@@ -1,11 +1,13 @@
 ﻿
 using ApiIntro.Core.Entities;
 using ApiIntro.Data.Configurations;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace ApiIntro.Data.Context
 {
-    public class ApiIntroDbContext:DbContext
+    public class ApiIntroDbContext:IdentityDbContext<IdentityUser>
     {
         public ApiIntroDbContext(DbContextOptions<ApiIntroDbContext> options) : base(options)
         {

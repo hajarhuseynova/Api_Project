@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\99455\\Desktop\\ApiIntro.Service\\ApiIntro.Service.csproj": {}
+    "C:\\Users\\99455\\Desktop\\Apiproject\\ApiIntro.Service\\ApiIntro.Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\99455\\Desktop\\ApiIntro.Core\\ApiIntro.Core.csproj": {
+    "C:\\Users\\99455\\Desktop\\Apiproject\\ApiIntro.Core\\ApiIntro.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\99455\\Desktop\\ApiIntro.Core\\ApiIntro.Core.csproj",
+        "projectUniqueName": "C:\\Users\\99455\\Desktop\\Apiproject\\ApiIntro.Core\\ApiIntro.Core.csproj",
         "projectName": "ApiIntro.Core",
-        "projectPath": "C:\\Users\\99455\\Desktop\\ApiIntro.Core\\ApiIntro.Core.csproj",
+        "projectPath": "C:\\Users\\99455\\Desktop\\Apiproject\\ApiIntro.Core\\ApiIntro.Core.csproj",
         "packagesPath": "C:\\Users\\99455\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\99455\\Desktop\\ApiIntro.Core\\obj\\",
+        "outputPath": "C:\\Users\\99455\\Desktop\\Apiproject\\ApiIntro.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\99455\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\99455\\Desktop\\ApiIntro.Data\\ApiIntro.Data.csproj": {
+    "C:\\Users\\99455\\Desktop\\Apiproject\\ApiIntro.Data\\ApiIntro.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\99455\\Desktop\\ApiIntro.Data\\ApiIntro.Data.csproj",
+        "projectUniqueName": "C:\\Users\\99455\\Desktop\\Apiproject\\ApiIntro.Data\\ApiIntro.Data.csproj",
         "projectName": "ApiIntro.Data",
-        "projectPath": "C:\\Users\\99455\\Desktop\\ApiIntro.Data\\ApiIntro.Data.csproj",
+        "projectPath": "C:\\Users\\99455\\Desktop\\Apiproject\\ApiIntro.Data\\ApiIntro.Data.csproj",
         "packagesPath": "C:\\Users\\99455\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\99455\\Desktop\\ApiIntro.Data\\obj\\",
+        "outputPath": "C:\\Users\\99455\\Desktop\\Apiproject\\ApiIntro.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\99455\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -92,8 +92,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\99455\\Desktop\\ApiIntro.Core\\ApiIntro.Core.csproj": {
-                "projectPath": "C:\\Users\\99455\\Desktop\\ApiIntro.Core\\ApiIntro.Core.csproj"
+              "C:\\Users\\99455\\Desktop\\Apiproject\\ApiIntro.Core\\ApiIntro.Core.csproj": {
+                "projectPath": "C:\\Users\\99455\\Desktop\\Apiproject\\ApiIntro.Core\\ApiIntro.Core.csproj"
               }
             }
           }
@@ -108,6 +108,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.16, )"
@@ -136,14 +140,14 @@
         }
       }
     },
-    "C:\\Users\\99455\\Desktop\\ApiIntro.Service\\ApiIntro.Service.csproj": {
+    "C:\\Users\\99455\\Desktop\\Apiproject\\ApiIntro.Service\\ApiIntro.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\99455\\Desktop\\ApiIntro.Service\\ApiIntro.Service.csproj",
+        "projectUniqueName": "C:\\Users\\99455\\Desktop\\Apiproject\\ApiIntro.Service\\ApiIntro.Service.csproj",
         "projectName": "ApiIntro.Service",
-        "projectPath": "C:\\Users\\99455\\Desktop\\ApiIntro.Service\\ApiIntro.Service.csproj",
+        "projectPath": "C:\\Users\\99455\\Desktop\\Apiproject\\ApiIntro.Service\\ApiIntro.Service.csproj",
         "packagesPath": "C:\\Users\\99455\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\99455\\Desktop\\ApiIntro.Service\\obj\\",
+        "outputPath": "C:\\Users\\99455\\Desktop\\Apiproject\\ApiIntro.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\99455\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -160,8 +164,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\99455\\Desktop\\ApiIntro.Data\\ApiIntro.Data.csproj": {
-                "projectPath": "C:\\Users\\99455\\Desktop\\ApiIntro.Data\\ApiIntro.Data.csproj"
+              "C:\\Users\\99455\\Desktop\\Apiproject\\ApiIntro.Data\\ApiIntro.Data.csproj": {
+                "projectPath": "C:\\Users\\99455\\Desktop\\Apiproject\\ApiIntro.Data\\ApiIntro.Data.csproj"
               }
             }
           }

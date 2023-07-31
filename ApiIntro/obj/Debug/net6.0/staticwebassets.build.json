@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "IWpOt92jdG1Iy637z8E8ugwBJtxSJzKVxL9vINTmYiI=",
+  "Hash": "oCY4f8ObEBB0NcBbs9TxrFhME4KjzpjInTAmkEJEfpY=",
   "Source": "ApiIntro",
   "BasePath": "_content/ApiIntro",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ApiIntro\\wwwroot",
       "Source": "ApiIntro",
-      "ContentRoot": "C:\\Users\\99455\\Desktop\\ApiIntro\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\99455\\Desktop\\Apiproject\\ApiIntro\\wwwroot\\",
       "BasePath": "_content/ApiIntro",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\99455\\Desktop\\ApiIntro\\wwwroot\\assets\\images\\2beda982-d5fb-4336-80ae-db2d08ecfd24Screenshot (1).png",
+      "Identity": "C:\\Users\\99455\\Desktop\\Apiproject\\ApiIntro\\wwwroot\\assets\\images\\2beda982-d5fb-4336-80ae-db2d08ecfd24Screenshot (1).png",
       "SourceId": "ApiIntro",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\99455\\Desktop\\ApiIntro\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\99455\\Desktop\\Apiproject\\ApiIntro\\wwwroot\\",
       "BasePath": "_content/ApiIntro",
       "RelativePath": "assets/images/2beda982-d5fb-4336-80ae-db2d08ecfd24Screenshot (1).png",
       "AssetKind": "All",
@@ -32,6 +32,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\2beda982-d5fb-4336-80ae-db2d08ecfd24Screenshot (1).png"
+    },
+    {
+      "Identity": "C:\\Users\\99455\\Desktop\\Apiproject\\ApiIntro\\wwwroot\\assets\\images\\d9308265-0ff3-440e-b856-d9e97f2ec247Screenshot (4).png",
+      "SourceId": "ApiIntro",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\99455\\Desktop\\Apiproject\\ApiIntro\\wwwroot\\",
+      "BasePath": "_content/ApiIntro",
+      "RelativePath": "assets/images/d9308265-0ff3-440e-b856-d9e97f2ec247Screenshot (4).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\d9308265-0ff3-440e-b856-d9e97f2ec247Screenshot (4).png"
     }
   ]
 }

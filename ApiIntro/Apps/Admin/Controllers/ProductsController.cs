@@ -1,12 +1,14 @@
 ﻿using ApiIntro.Service.Dtos.Products;
 using ApiIntro.Service.Services.Interfaces;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
-namespace ApiIntro.Controllers
+namespace ApiIntro.Admin.Controllers
 {
+    [Authorize(Roles = "Admin,SuperAdmin")]
     [ApiController]
-    [Route("api/[controller]")]
-    public class ProductsController : Controller
+    [Route("api/admin/[controller]")]
+    public class ProductsController : ControllerBase
     {
         private readonly IProductService _productService;
 

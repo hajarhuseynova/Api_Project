@@ -1776,11 +1776,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\99455\\Desktop\\ApiIntro.Core\\ApiIntro.Core.csproj",
+      "projectUniqueName": "C:\\Users\\99455\\Desktop\\Apiproject\\ApiIntro.Core\\ApiIntro.Core.csproj",
       "projectName": "ApiIntro.Core",
-      "projectPath": "C:\\Users\\99455\\Desktop\\ApiIntro.Core\\ApiIntro.Core.csproj",
+      "projectPath": "C:\\Users\\99455\\Desktop\\Apiproject\\ApiIntro.Core\\ApiIntro.Core.csproj",
       "packagesPath": "C:\\Users\\99455\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\99455\\Desktop\\ApiIntro.Core\\obj\\",
+      "outputPath": "C:\\Users\\99455\\Desktop\\Apiproject\\ApiIntro.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\99455\\AppData\\Roaming\\NuGet\\NuGet.Config",

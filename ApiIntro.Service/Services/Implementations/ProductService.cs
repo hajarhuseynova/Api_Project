@@ -18,9 +18,7 @@ namespace ApiIntro.Service.Services.Implementations
         private readonly IMapper _mapper;
         private readonly IWebHostEnvironment _env;
         private readonly IHttpContextAccessor _http;
-
         private readonly ICategoryRepository _crepository;
-
         private readonly IProductRepository _repository;
 
         public ProductService(IMapper mapper, IProductRepository repository, IWebHostEnvironment env = null, ICategoryRepository crepository = null, IHttpContextAccessor http = null)
